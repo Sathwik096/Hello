@@ -2,4 +2,3 @@ This is for git tutorial
 edited from main branch
 
 From remote
-branch edited
